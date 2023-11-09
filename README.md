@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZachNiles a.k.a, Zach
-- 🌱 I’m currently studying Computer Science at The University of Alabama in Huntsville
+- 🌱 I’m currently studying General Information Systems at The University of Alabama in Huntsville
 - 📫 How to reach me --> zniles02@gmail.com
 
 
